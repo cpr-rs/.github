@@ -1,3 +1,5 @@
+<img src="../assets/CPR.png" width="128" height="128">
+
 # CPR
 
 A simple C/C++ project manager, using GitHub for hosting templates.
